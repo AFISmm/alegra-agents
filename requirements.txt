@@ -5,3 +5,4 @@ xlrd==2.0.1
 python-dotenv==1.0.1
 loguru==0.7.2
 tenacity==8.3.0
+streamlit>=1.32.0

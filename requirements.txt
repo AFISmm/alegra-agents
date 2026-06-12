@@ -1,8 +1,8 @@
-requests==2.31.0
-pandas==2.2.2
-openpyxl==3.1.2
-xlrd==2.0.1
-python-dotenv==1.0.1
-loguru==0.7.2
-tenacity==8.3.0
-streamlit>=1.32.0
+requests
+pandas
+openpyxl
+xlrd
+python-dotenv
+loguru
+tenacity
+streamlit

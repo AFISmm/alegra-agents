@@ -1,0 +1,31 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Datos financieros y archivos generados (no subir al repo)
+data/transactions/
+data/output/
+data/logs/
+data/templates/
+*.xlsx
+*.csv
+*.docx
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
